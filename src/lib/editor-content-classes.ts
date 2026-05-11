@@ -1,0 +1,3 @@
+export const editorSpacingClasses = "[&_p]:my-2 [&_p]:leading-relaxed [&_p.spacer]:my-0 [&_p.spacer]:h-6 [&_p.spacer]:leading-none [&_div]:my-2 [&_div]:leading-relaxed [&_div.spacer]:my-0 [&_div.spacer]:h-6 [&_div.spacer]:leading-none";
+
+export const editorSpacingClassesImportant = "[&_p]:!my-2 [&_p]:!leading-relaxed [&_p.spacer]:!my-0 [&_p.spacer]:!h-6 [&_p.spacer]:!leading-none [&_div]:!my-2 [&_div]:!leading-relaxed [&_div.spacer]:!my-0 [&_div.spacer]:!h-6 [&_div.spacer]:!leading-none";
