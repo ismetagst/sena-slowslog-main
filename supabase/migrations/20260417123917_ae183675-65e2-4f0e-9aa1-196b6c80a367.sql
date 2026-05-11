@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Transfer proofs are viewable" ON storage.objects;
